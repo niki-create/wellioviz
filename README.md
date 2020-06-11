@@ -26,6 +26,9 @@ WELLIOVIZ is a JavaScript library that provides functionality to visualize well 
     - Link: Building a basic webpage demo here: https://justingosses.github.io/wellioviz/demo.html 
 
 #### Community Built Demos!
+-Loading data locally using LAS files from the Kansas Geological Survey:
+<https://observablehq.com/@nikakai/wellioviz-locally-uploading-wells-pike-1-14-wildcat-field-k>
+
 <INSERT YOUR EXAMPLE HERE VIA A PULL REQUEST !!!>
 
 
